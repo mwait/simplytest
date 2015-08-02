@@ -1,2 +1,2 @@
 Test Git'A
-dupa
+Test brancha
